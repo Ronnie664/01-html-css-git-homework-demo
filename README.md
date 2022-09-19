@@ -9,4 +9,4 @@ URL of deployed application: https://ronnie664.github.io/01-html-css-git-homewor
 # Screenshot
 
 The image below is a screenshot of the refactored website:
-![Refactored website](assets\images\Screenshot 2022-09-18 at 20-07-55 website.png)
+![image](https://user-images.githubusercontent.com/112840713/190944563-5b038c87-65af-4ead-a772-08c3d9d8f0e3.png)
